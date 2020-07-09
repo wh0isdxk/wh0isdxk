@@ -1,3 +1,5 @@
+😊
+
     .method public static printHelloWorld()V
     .registers 2
     sget-object v0, Ljava/lang/System;->out:Ljava/io/PrintStream;
