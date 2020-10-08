@@ -1,3 +1,14 @@
+<img align="left" height="232" src="https://user-images.githubusercontent.com/37185061/95494966-20243700-0975-11eb-84c8-cd4ac47809c1.png"/>
+
+# Daiane Santos 
+
+* Security Analyst 
+* Mobile Security 
+* Rev Engineering 
+* Data Privacy 
+* Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
+* Tolkienist 
+
 <img align="right" height="150" src="https://media.giphy.com/media/SwgDtzpB3XVVowp19v/giphy.gif"/>
 
     .method public static printHelloWorld()V
@@ -7,5 +18,4 @@
     invoke-virtual {v0,v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
     return-void
     .end method
-
 
