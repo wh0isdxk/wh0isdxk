@@ -9,6 +9,9 @@
 * Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
 * Tolkienist 
 
+![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
+
+
 <img align="right" height="150" src="https://media.giphy.com/media/SwgDtzpB3XVVowp19v/giphy.gif"/>
 
     .method public static printHelloWorld()V
@@ -18,4 +21,5 @@
     invoke-virtual {v0,v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
     return-void
     .end method
+
 
