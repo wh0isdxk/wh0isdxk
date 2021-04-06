@@ -11,6 +11,8 @@
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
 
+Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia Reversa de Apks. Enjoy :] 
+
 <img align="right" height="150" src="https://media.giphy.com/media/SwgDtzpB3XVVowp19v/giphy.gif"/>
 
     .method public static printHelloWorld()V
