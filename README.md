@@ -24,7 +24,7 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
     .end method
 
 <p align="center">  
-    <a href="https://linkedin.com/daianemsantos"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+    <a href="https://www.linkedin.com/in/daianemsantos/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
     </a>
     <a href="https://medium.com/@daiane.santos"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-256.png" width="32" height="32" />
     </a>
