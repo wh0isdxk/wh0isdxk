@@ -23,4 +23,7 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
     return-void
     .end method
 
-
+<p align="center">  
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-256.png" width="32" height="32" />
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-256.png" width="32" height="32" />
