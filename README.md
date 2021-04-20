@@ -30,3 +30,5 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
     </a>
     <a href="https://twitter.com/wh0isdxk"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-256.png" width="32" height="32" />
     </a>
+ <a href="https://www.instagram.com/daianesantos.jpg/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
+    </a>
