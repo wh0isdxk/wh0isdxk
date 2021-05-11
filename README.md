@@ -33,7 +33,7 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
  <a href="https://www.instagram.com/daianesantos.jpg/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
     </a>
      </a>
- <a href="daiane"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fkeybase-icon_2.png&f=1&nofb=1" width="32" height="32" />
+ <a href="https://keybase.io/daiane"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fkeybase-icon_2.png&f=1&nofb=1" width="32" height="32" />
     </a>
 <br />
 <br />
