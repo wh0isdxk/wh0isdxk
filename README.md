@@ -7,7 +7,7 @@
 * Rev Engineering 
 * Data Privacy 
 * Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
-* Tolkienist 
+* Chess player  
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
 
