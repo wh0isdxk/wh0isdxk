@@ -2,10 +2,9 @@
 
 # Daiane Santos 
 
-* Security Analyst 
+* Application Security Analyst 
 * Mobile Security 
 * Rev Engineering 
-* Data Privacy 
 * Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
 * Chess player  
 
