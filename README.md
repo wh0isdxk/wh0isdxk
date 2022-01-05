@@ -6,7 +6,7 @@
 * Mobile Security 
 * Rev Engineering 
 * Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
-* Chess player  
+* Chess player and Astronomy enthusiast :telescope:
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
 
