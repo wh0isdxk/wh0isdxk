@@ -1,4 +1,4 @@
-<img align="left" height="300" src="https://user-images.githubusercontent.com/37185061/150184972-38d84539-d059-4fe9-ad36-90932362cc8b.jpg"/>
+<img align="left" height="280" src="https://user-images.githubusercontent.com/37185061/150184972-38d84539-d059-4fe9-ad36-90932362cc8b.jpg"/>
 
 # Daiane Santos 
 
