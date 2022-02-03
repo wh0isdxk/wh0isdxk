@@ -2,7 +2,7 @@
 
 # Daiane Santos 
 
-* Application Security Analyst 
+* Application Security Engineer 
 * Mobile Security 
 * Rev Engineering 
 * Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
