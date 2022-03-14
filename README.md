@@ -2,10 +2,10 @@
 
 # Daiane Santos 
 
-* Application Security Engineer 
-* Mobile Security 
+* Mobile Security Engineer
 * Rev Engineering 
-* Captain and CTF Player at @[RATF](https://twitter.com/RATF_CTFTEAM)
+* Captain and CTF Player at [@RATF](https://twitter.com/RATF_CTFTEAM)
+* More about mobsec in [@thatmobileproject](https://instagram.com/thatmobileproject)
 * Chess player and Astronomy enthusiast :telescope:
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
