@@ -25,11 +25,11 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
 <p align="center">  
     <a href="https://www.linkedin.com/in/daianemsantos/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
     </a>
-    <a href="https://medium.com/@daiane.santos"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-256.png" width="32" height="32" />
+    <a href="https://wh0isdxk.medium.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-256.png" width="32" height="32" />
     </a>
     <a href="https://twitter.com/wh0isdxk"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-256.png" width="32" height="32" />
     </a>
- <a href="https://www.instagram.com/daianesantos.jpg/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
+ <a href="https://www.instagram.com/wh0isdxk/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
     </a>
      </a>
  <a href="https://keybase.io/daiane"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fkeybase-icon_2.png&f=1&nofb=1" width="32" height="32" />
