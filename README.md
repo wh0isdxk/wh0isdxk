@@ -5,12 +5,14 @@
 * Mobile Security Engineer
 * Rev Engineering 
 * Captain and CTF Player at [@RATF](https://twitter.com/RATF_CTFTEAM)
-* More about mobsec in [@thatmobileproject](https://instagram.com/mobilehackingbr)
+* More about mobsec in [@mobilehackingclub](https://instagram.com/mobilehackingclub)
 * Chess player and Astronomy enthusiast :telescope:
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
 
-Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia Reversa de Apks. Enjoy :] 
+Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia Reversa de Apks. Enjoy! :] 
+
+Todas as palestras podem ser encontradas [aqui](https://speakerdeck.com/daianesantos) 
 
     .method public static printHelloWorld()V
     .registers 2
@@ -30,8 +32,6 @@ Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia R
  <a href="https://www.instagram.com/wh0isdxk/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
     </a>
      </a>
- <a href="https://keybase.io/daiane"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fkeybase-icon_2.png&f=1&nofb=1" width="32" height="32" />
-    </a>
 <br />
 <br />
     
