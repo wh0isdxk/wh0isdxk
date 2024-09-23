@@ -10,6 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wh0isdxk&color=ee959e)
 
+
 Clique [aqui](https://wh0isdxk.github.io/) para entender mais sobre Engenharia Reversa de Apks. Enjoy! :] 
 
 Todas as palestras podem ser encontradas [aqui](https://speakerdeck.com/daianesantos) 
